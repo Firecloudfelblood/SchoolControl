@@ -1,0 +1,2 @@
+# SchoolControl
+school control app
